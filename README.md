@@ -14,10 +14,10 @@
       项目地址：[https://github.com/square/picasso](https://github.com/square/picasso)    
       项目文档：[http://square.github.io/picasso/](http://square.github.io/picasso/)    
       ![示例图](https://github.com/square/picasso/blob/master/website/static/sample.png)    
-3. **glide** An image loading and caching library for Android focused on smooth scrolling
+3. **glide** An image loading and caching library for Android focused on smooth scrolling picasso基础上更进一步图片加载组建    
       项目地址：[https://github.com/bumptech/glide](https://github.com/bumptech/glide)    
       ![图标](https://github.com/bumptech/glide/blob/master/static/glide_logo.png)    
-4. **greenDAO** greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.     
+4. **greenDAO** greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.数据库组建         
       项目地址：[https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)    
       项目文档：[http://greenrobot.org/greendao/](http://greenrobot.org/greendao/)    
 greenDAO's unique set of features:
