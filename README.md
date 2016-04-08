@@ -20,7 +20,7 @@
 4. **greenDAO** greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. 
     项目地址：[https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
     项目文档：[http://greenrobot.org/greendao/](http://greenrobot.org/greendao/)
- >greenDAO's unique set of features:
+ > greenDAO's unique set of features:
 Rock solid: greenDAO has been around since 2011 and is used by countless famous apps
 Super simple: concise and straight-forward API
 Small: The library is <100K and it's just plain Java jar (no CPU dependent native parts)
