@@ -31,9 +31,9 @@ Flexible property types: use custom classes or enums to represent data in your e
 5. **flatbuffers** Memory Efficient Serialization Library google出品高效序列化库    
     项目地址：[https://github.com/google/flatbuffers](https://github.com/google/flatbuffers)    
     项目文档：[http://google.github.io/flatbuffers/](http://google.github.io/flatbuffers/)    
-    >Supported operating systems
-   .  Android
-   .  Windows
-   .  MacOS X
-   .  Linux
+    ####Supported operating systems    
+   -  Android    
+   -  Windows    
+   -  MacOS X    
+   -  Linux    
 
