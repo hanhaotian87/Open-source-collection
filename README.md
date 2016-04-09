@@ -32,13 +32,13 @@ Flexible property types: use custom classes or enums to represent data in your e
     项目地址：[https://github.com/google/flatbuffers](https://github.com/google/flatbuffers)    
     项目文档：[http://google.github.io/flatbuffers/](http://google.github.io/flatbuffers/)  
 
-#### Supported operating systems    
+*Supported operating systems*    
    -  Android    
    -  Windows    
    -  MacOS X    
    -  Linux  
    
-#### 为什么要使用Google **FlatBuffers**    
+*为什么要使用Google FlatBuffers*   
    - 对序列化数据的访问不需要打包和拆包——它将序列化数据存储在缓存中，这些数据既可以存储在文件中，又可以通过网络原样传输，而没有任何解析开销；    
    - 内存效率和速度——访问数据时的唯一内存需求就是缓冲区，不需要额外的内存分配。 这里可查看详细的 基准测试；    
    - 扩展性、灵活性——它支持的可选字段意味着不仅能获得很好的前向/后向兼容性（对于长生命周期的游戏来说尤其重要，因为不需要每个新版本都更新 - 所有数据）；    
