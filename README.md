@@ -3,6 +3,7 @@
 ## Android开源项目
 ### Android 架构
 1. 简易的MVP架构[https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
+
 2. MVVM实例--MVVM_Hacker_News[https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
 ![MVVM_Hacker_News示例图](https://github.com/hitherejoe/MVVM_Hacker_News/blob/master/images/screens.png)
 
@@ -10,13 +11,16 @@
 1. **retrofit** Type-safe HTTP client for Android and Java by Square, Inc. Android最好的HTTP框架   
       项目地址：[https://github.com/square/retrofit](https://github.com/square/retrofit)    
       项目文档：[http://square.github.io/retrofit/](http://square.github.io/retrofit/)    
+
 2. **picasso** A powerful image downloading and caching library for Android. square又一款杰作，图片加载组建    
       项目地址：[https://github.com/square/picasso](https://github.com/square/picasso)    
       项目文档：[http://square.github.io/picasso/](http://square.github.io/picasso/)    
       ![示例图](https://github.com/square/picasso/blob/master/website/static/sample.png)    
+
 3. **glide** An image loading and caching library for Android focused on smooth scrolling. **picasso**基础上更进一步图片加载组建    
       项目地址：[https://github.com/bumptech/glide](https://github.com/bumptech/glide)    
       ![图标](https://github.com/bumptech/glide/blob/master/static/glide_logo.png)    
+
 4. **greenDAO** greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.数据库组建         
       项目地址：[https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)    
       项目文档：[http://greenrobot.org/greendao/](http://greenrobot.org/greendao/)    
@@ -27,7 +31,8 @@ Small: The library is <100K and it's just plain Java jar (no CPU dependent nativ
 Fast: Probably the fastest ORM for Android, driven by intelligent code generation    
 Safe and expressive query API: QueryBuilder uses property constants to avoid typos    
 Powerful joins: query across entities and even chain joins for complex relations    
-Flexible property types: use custom classes or enums to represent data in your entity    
+Flexible property types: use custom classes or enums to represent data in your entity  
+
 5. **flatbuffers** Memory Efficient Serialization Library google出品高效序列化库    
     项目地址：[https://github.com/google/flatbuffers](https://github.com/google/flatbuffers)    
     项目文档：[http://google.github.io/flatbuffers/](http://google.github.io/flatbuffers/)  
@@ -37,7 +42,6 @@ Flexible property types: use custom classes or enums to represent data in your e
    -  Windows    
    -  MacOS X    
    -  Linux  
-   
 > *为什么要使用Google FlatBuffers*   
    - 对序列化数据的访问不需要打包和拆包——它将序列化数据存储在缓存中，这些数据既可以存储在文件中，又可以通过网络原样传输，而没有任何解析开销；    
    - 内存效率和速度——访问数据时的唯一内存需求就是缓冲区，不需要额外的内存分配。 这里可查看详细的 基准测试；    
