@@ -28,4 +28,12 @@ Fast: Probably the fastest ORM for Android, driven by intelligent code generatio
 Safe and expressive query API: QueryBuilder uses property constants to avoid typos    
 Powerful joins: query across entities and even chain joins for complex relations    
 Flexible property types: use custom classes or enums to represent data in your entity    
+5. **flatbuffers** Memory Efficient Serialization Library google出品高效序列化库    
+    项目地址：[https://github.com/google/flatbuffers](https://github.com/google/flatbuffers)    
+    项目文档：[http://google.github.io/flatbuffers/](http://google.github.io/flatbuffers/)    
+    >Supported operating systems
+   .  Android
+   .  Windows
+   .  MacOS X
+   .  Linux
 
