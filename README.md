@@ -89,7 +89,8 @@ Flexible property types: use custom classes or enums to represent data in your e
 
 8. **MagicProgressWidget**  MagicProgressCircle & MagicProgressBar   
    项目地址：[https://github.com/lingochamp/MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget)  
-   项目文档：[http://blog.dreamtobe.cn/2015/12/13/magic_progress_widget/](http://blog.dreamtobe.cn/2015/12/13/magic_progress_widget/)    ![示例图](https://github.com/lingochamp/MagicProgressWidget/raw/master/art/demo.gif)  
+   项目文档：[http://blog.dreamtobe.cn/2015/12/13/magic_progress_widget/](http://blog.dreamtobe.cn/2015/12/13/magic_progress_widget/)   
+![示例图](https://github.com/lingochamp/MagicProgressWidget/raw/master/art/demo.gif)  
 
 9. **LabelView** 一个简单的标签控件 支持自定义 文字大小（textSize）， 间距（labelTopPadding）， 背景色（backgroundColor）， 和方向（direction）等    
    项目地址：[https://github.com/corerzhang/LabelView](https://github.com/corerzhang/LabelView)  
@@ -124,7 +125,7 @@ Flexible property types: use custom classes or enums to represent data in your e
    ![1](https://github.com/lopspower/HFRecyclerView/blob/master/preview/preview.gif)  
 
 17. **InstagRealm** 一个android应用搭建lib集合  InstagRealm is a sample Android application, which shows you how to integrate some of the most popular Android libraries together such as Realm, Royal, RecyclerView, CardView, Retrofit, Fresco, EventBus, Butterknife, Material Dialog and Logger.  
-   项目地址：[1](https://github.com/TheFinestArtist/InstagRealm/blob/master/art/instagrealm_a_400.png)  
+   项目地址：[https://github.com/TheFinestArtist/InstagRealm](https://github.com/TheFinestArtist/InstagRealm)  
 
 18. **android-shape-imageview** Custom shaped android imageview components  一个优秀图片裁剪view  
    项目地址：[https://github.com/siyamed/android-shape-imageview](https://github.com/siyamed/android-shape-imageview)  
