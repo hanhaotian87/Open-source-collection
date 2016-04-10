@@ -2,9 +2,9 @@
 优秀开源项目收集
 ## Android开源项目
 ### Android 架构
-1. 简易的MVP架构[https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
+1. 简易的MVP架构 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 
-2. MVVM实例--MVVM_Hacker_News[https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
+2. MVVM实例--MVVM_Hacker_News [https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
 ![MVVM_Hacker_News示例图](https://github.com/hitherejoe/MVVM_Hacker_News/blob/master/images/screens.png)
 
 ### Android 应用搭建快捷组件
@@ -50,4 +50,11 @@ Flexible property types: use custom classes or enums to represent data in your e
    - 强类型设计——尽可能使错误出现在编译期，而不是等到运行期才手动检查和修正；    
    - 使用简单——生成的C++代码提供了简单的访问和构造接口；而且如果需要，通过一个可选功能可以用来在运行时高效解析Schema和类JSON格式的文本；   
    - 跨平台——支持C++11、Java，而不需要任何依赖库；在最新的gcc、clang、vs2010等编译器上工作良好；    
+
+6. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. 优秀的事件分发组建
+   项目地址： [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)    
+   项目文档： [http://greenrobot.org/eventbus/](http://greenrobot.org/eventbus/)    
+   EventBus is a publish/subscribe event bus optimized for Android.    
+   ![示意图](https://github.com/greenrobot/EventBus/blob/master/EventBus-Publish-Subscribe.png)  
+
 
