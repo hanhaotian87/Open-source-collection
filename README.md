@@ -143,6 +143,15 @@ Flexible property types: use custom classes or enums to represent data in your e
    项目地址：[https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)  
    ![1](https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png)  
 
+22. **IRecyclerView** IRecyclerView is a custom RecyclerView that supports pull-to-refresh, pull-to-loadmore, customize refresh header and loadmore footer, add header views and footer views.  
+   项目地址：[https://github.com/Aspsine/IRecyclerView](https://github.com/Aspsine/IRecyclerView)  
+   ![1](https://github.com/Aspsine/IRecyclerView/raw/master/art/bat_vs_supper_header.gif)   
+   ![2](https://raw.githubusercontent.com/Aspsine/IRecyclerView/master/art/class_header.gif)  
+
+23. **DMPlayer** DMPLayer is an Android music player prototype ,一个音乐播放器  
+   项目地址：[https://github.com/dibakarece/DMPlayer](https://github.com/dibakarece/DMPlayer)  
+   ![1](https://cloud.githubusercontent.com/assets/10453203/14409497/8bdefa36-ff32-11e5-8f88-b408eaf420c5.png)  
+
    
 ### Android 性能检测  
 1. **leakcanary** A memory leak detection library for Android and Java. 优秀OOM检测工具  
