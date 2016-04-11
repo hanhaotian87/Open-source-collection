@@ -138,6 +138,11 @@ Flexible property types: use custom classes or enums to represent data in your e
 20. **LuseenBottomNavigation**  Material Bottom Navigation  
    项目地址：[https://github.com/armcha/LuseenBottomNavigation](https://github.com/armcha/LuseenBottomNavigation)  
    ![1](https://github.com/armcha/LuseenBottomNavigation/blob/master/ScreenShots/gifView2.gif)  
+
+21. **Android-Week-View** Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.  
+   项目地址：[https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)  
+   ![1](https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png)  
+
    
 ### Android 性能检测  
 1. **leakcanary** A memory leak detection library for Android and Java. 优秀OOM检测工具  
@@ -208,6 +213,7 @@ android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2148)
 ... 11 more,
 "Cause" : java.lang.NumberFormatException: Invalid int: \"asdf\"
 "Country" : India
+    
 
 
 
