@@ -1,10 +1,22 @@
 # Open-source-collection
 优秀开源项目收集
 ## Android开源项目
-### Android 架构
-1. 简易的MVP架构 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
+### Android 架构  
+1. **Google MVP示例** android-architecture A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.  
+   项目地址：[https://github.com/googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)  
 
-2. MVVM实例--MVVM_Hacker_News [https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
+> All projects are released in their own branch. Check each project's README for more information.
+   [todo-mvp/](https://github.com/googlesamples/android-architecture/tree/todo-mvp/) - Basic Model-View-Presenter architecture.
+   [todo-mvp-loaders/](https://github.com/googlesamples/android-architecture/tree/todo-mvp-loaders/) - Based on todo-mvp, fetches data using Loaders.
+   [todo-mvp-databinding/](https://github.com/googlesamples/android-architecture/tree/todo-databinding/) - Based on todo-mvp, uses the Data Binding Library.
+   In progress:
+   [dev-todo-mvp-contentproviders/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-contentproviders/) - Based on todo-mvp-loaders, uses Content Providers
+   [dev-todo-mvp-clean/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-clean/) - Based on todo-mvp, uses concepts from Clean Architecture.
+   [dev-todo-mvp-dagger/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-dagger/) - Based on todo-mvp, uses Dagger2 for Dependency Injection
+   Also, see "New sample" issues for planned samples.  
+2. 简易的MVP架构 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
+
+3. MVVM实例--MVVM_Hacker_News [https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
 ![MVVM_Hacker_News示例图](https://github.com/hitherejoe/MVVM_Hacker_News/blob/master/images/screens.png)
 
 ### Android 应用搭建快捷组件
