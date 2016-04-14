@@ -2,7 +2,12 @@
 优秀开源项目收集
 ## Android开源项目
 ### Android 架构  
-1. **Google MVP示例** android-architecture A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.  
+1. **简易的MVP架构** [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)  
+
+2. **MVVM实例--MVVM_Hacker_News** [https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
+![MVVM_Hacker_News示例图](https://github.com/hitherejoe/MVVM_Hacker_News/blob/master/images/screens.png)  
+
+3. **Google MVP示例** android-architecture A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.  
    项目地址：[https://github.com/googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)  
 
 > All projects are released in their own branch. Check each project's README for more information.  
@@ -15,11 +20,6 @@
    [dev-todo-mvp-dagger/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-dagger/) - Based on todo-mvp, uses Dagger2 for Dependency Injection  
    Also, see "New sample" issues for planned samples.   
    
-2. **简易的MVP架构** [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)  
-
-3. **MVVM实例--MVVM_Hacker_News** [https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
-![MVVM_Hacker_News示例图](https://github.com/hitherejoe/MVVM_Hacker_News/blob/master/images/screens.png)  
-
 ### Android 应用搭建快捷组件
 1. **retrofit** Type-safe HTTP client for Android and Java by Square, Inc. Android最好的HTTP框架   
       项目地址：[https://github.com/square/retrofit](https://github.com/square/retrofit)    
