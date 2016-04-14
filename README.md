@@ -13,7 +13,8 @@
    [dev-todo-mvp-contentproviders/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-contentproviders/) - Based on todo-mvp-loaders, uses Content Providers  
    [dev-todo-mvp-clean/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-clean/) - Based on todo-mvp, uses concepts from Clean Architecture.  
    [dev-todo-mvp-dagger/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-dagger/) - Based on todo-mvp, uses Dagger2 for Dependency Injection  
-   Also, see "New sample" issues for planned samples.    
+   Also, see "New sample" issues for planned samples.   
+   
 2. 简易的MVP架构 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 
 3. MVVM实例--MVVM_Hacker_News [https://github.com/hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)
